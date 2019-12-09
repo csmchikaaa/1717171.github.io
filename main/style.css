@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color:#1abc9c;
+}
+p {
+  line-height: 1.5;
+  color: white;
+  text-decoration: none;
+
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+button {
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+  color:white;
+  padding: 10px;
+  font-size: 16px;
+}
+img {
+ border-radius: 10px;
+ height: 400px;
+ weight: 300px;
+}
+#downvote {
+  background-color: red;
+}
+#upvote {
+  background-color: green;
+}
+#votes {
+  font-weight: bold;
+  font-size: 25px;
+}
